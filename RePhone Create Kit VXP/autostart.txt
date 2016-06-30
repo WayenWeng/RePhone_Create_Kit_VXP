@@ -1,2 +1,2 @@
 [autostart]
-App=C:\MRE\RePhone_Create_Kit_v6_4.vxp
+App=C:\MRE\RePhone_Create_Kit_v6_4_TP_v1_x.vxp
